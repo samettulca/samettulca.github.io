@@ -30,7 +30,7 @@ body
     position:fixed;
     left:5%;
     top:5%; 
-    font-size: 60px;
+    font-size: 51px;
     float: left;
     list-style: none
 }
@@ -65,12 +65,13 @@ a:hover
 }
 
 
-.social_line
+.accounts_line
 {
     position:fixed;
     left:7%;
-    top:75%; 
-    font-size: 60px;
+    right: 7%;
+    top:75%;
+    font-size: 40px;
     float: left;
     list-style: none;
     margin-top: 30px;
@@ -79,9 +80,9 @@ a:hover
 }
 
 
-.social_icons li
+.accounts_icons li
 {
-    display: inline-block;
+    display:inline-block;
 }
 
 
@@ -156,10 +157,10 @@ a:hover
             .contact_info
                          {
                               color:#AFE0E7; 
-                              font-size:32px;
+                              font-size:21px;
                               float: left;
                               list-style: none;
-                              margin-top: 220px;
+                              margin-top: 170px;
                               margin-left: 30px; 
                          } 
              .about_page
@@ -172,13 +173,30 @@ a:hover
              .about_info
                          {
                               color:#AFE0E7; 
-                              font-size:32px;
+                              font-size:21px;
                               float: left;
                               list-style: none;
-                              margin-top: 220px;
+                              margin-top: 170px;
                               margin-left: 30px;
                          }  
 
+
+            .NFT_page
+                         {
+                              float: left;
+                              list-style: none;
+                              margin-top: 30px;
+                              margin-left: 30px; 
+                         }
+             .NFT_info
+                         {
+                              color:#AFE0E7; 
+                              font-size:21px;
+                              float: left;
+                              list-style: none;
+                              margin-top: 170px;
+                              margin-left: 30px;
+                         }  
 
 
                          
