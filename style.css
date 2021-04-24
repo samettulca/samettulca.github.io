@@ -10,7 +10,7 @@ body
     height: 100vh;
     background-size:cover;
     background-position: center;
-    font-family: montserrat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;;
     background-repeat: repeat;
 } 
 
@@ -28,7 +28,7 @@ body
 .main_line
 {
     position:fixed;
-    left:5%;
+    left:6%;
     top:5%; 
     font-size: 51px;
     float: left;
@@ -71,7 +71,7 @@ a:hover
     left:7%;
     right: 7%;
     top:75%;
-    font-size: 40px;
+    font-size: 50px;
     float: left;
     list-style: none;
     margin-top: 30px;
@@ -102,48 +102,10 @@ a:hover
         opacity: 0.7;    
 }
 
-             .video_page
-                         {
-                              float: left;
-                              list-style: none;
-                              margin-top: 30px;
-                              margin-left: 30px; 
-                         }
-
-                        .videos
-                                  {
-                                      float: left;
-                                      list-style: none;
-                                      margin-top: 50px;
-                                      margin-left: 50px;
-                                  }
-
-                        .videos li
-                                  {
-                                      display:inline-block;
-                                  }
+            
 
    
-             .audio_page
-                         {
-                              float: left;
-                              list-style: none;
-                              margin-top: 30px;
-                              margin-left: 30px; 
-                         }
-
-                        .audios
-                                  {
-                                      float: left;
-                                      list-style: none;
-                                      margin-top: 50px;
-                                      margin-left: 50px;
-                                  }
-
-                        .audios li
-                                  {
-                                      display:inline-block;
-                                  } 
+             
 
             .contact_page
                          {
